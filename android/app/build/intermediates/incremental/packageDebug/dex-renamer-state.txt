@@ -1,0 +1,4 @@
+#Sat Oct 14 12:44:18 WIB 2017
+base.0=/Users/ganeshsalim/Documents/Projects/OpenSource/RN/Alkitab-Suara-RN/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/ganeshsalim/Documents/Projects/OpenSource/RN/Alkitab-Suara-RN/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

@@ -7,8 +7,13 @@
 		"test": "jest"
 	},
 	"dependencies": {
+		"firebase": "^4.5.1",
+		"native-base": "^2.3.3",
 		"react": "16.0.0-beta.5",
-		"react-native": "0.49.3"
+		"react-native": "0.49.3",
+		"react-native-easy-gridview": "^1.0.2",
+		"react-native-image-progress": "^1.0.1",
+		"react-native-progress": "^3.4.0"
 	},
 	"devDependencies": {
 		"babel-jest": "21.2.0",
