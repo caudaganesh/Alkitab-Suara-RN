@@ -1,4 +1,8 @@
 {
-  "name": "AlkitabSuara",
-  "displayName": "AlkitabSuara"
+  "expo": {
+    "sdkVersion": "29.0.0",
+    "name": "Alkitab Suara",
+    "slug": "alkitab-suara",
+    "privacy": "public"
+  }
 }
